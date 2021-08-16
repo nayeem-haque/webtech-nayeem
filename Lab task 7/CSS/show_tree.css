@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;   /*body background color*/
+}
+
+h1{
+  color: green;                  /*header text color*/
+}
+
+table {
+  border-collapse: collapse; /* table border and width*/
+  width: 80%;
+}
+
+th, td {
+  padding: 10px; 
+}
+
+@media (max-width: 770px) {
+ .footer-distributed{
+ font: bold 14px sans-serif;
+
+ }
