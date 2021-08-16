@@ -1,0 +1,21 @@
+body{   /*body background color*/
+  text-align: center;
+}
+
+.box{
+  text-align: center;
+}
+h2{
+  color: green;                  /*header text color*/
+}
+
+input.form-control{
+  border-style: solid;          /*text green border*/
+  border-color: green;
+  width: 20%;
+}
+
+@media (max-width: 880px) {
+ .footer-distributed{
+ font: bold 14px sans-serif;
+}
